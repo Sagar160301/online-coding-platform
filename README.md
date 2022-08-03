@@ -45,11 +45,9 @@
 7. Select End Date and Time, when the assignment will end (or) users will not access this assignment after that time.
 8. Add description/message in the description box. The message/description which you want to share with users about this assignment.
 9. Select problems for Assignment:
-
     - choose problems from listed Problems table.
       (or)
     - If the problem is not avilable, then create a new problem by following the _Create Problem_ procedure.
-
 10. Click the button Create it will create a new Assignment on the platform. You should be able to see the new assignment in the _Assignments_ section.
 
 ## User
