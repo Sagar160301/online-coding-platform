@@ -1,5 +1,10 @@
 
 
+- [About this Platform](https://docs.google.com/document/u/1/d/e/2PACX-1vTzA_6u6o_KBnYNTRoYeaEbwirk5CMFh6uG0mUR9xo44nrj5q5CbJndUD9vOzxo5oziWoqjWvFtQlAz/pub)
+
+
+
+
 ## User
 
 **HOW TO SOLVE AN ASSIGNMENT**
